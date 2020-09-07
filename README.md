@@ -1,2 +1,2 @@
 # group-fairness
-Code for MSc project
+Code for 3 models on 2 datasets.
